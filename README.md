@@ -3,6 +3,8 @@ unbit-bars
 
 A Perl Curses::UI interface for uWSGI metrics subsystem
 
+![ScreenShot](https://raw.github.com/unbit/unbit-bars/master/screenshot.png)
+
 About
 -----
 
