@@ -27,7 +27,7 @@ cpanm Curses::UI
 Operational modes
 -----------------
 
-Currently the metrcis can be gathered in 2 ways:
+Currently the metrics can be gathered in 2 ways:
 
 'stats' => get the values from a uWSGI stats server
 
