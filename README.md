@@ -71,3 +71,5 @@ Options
 --mode => set the mode ('udp' or 'stats')
 
 --addr => set the address
+
+<metric:max:threshold> => you can specify all the metrics you need, max and threshold are optionals. By default a max of 100 is assumed
